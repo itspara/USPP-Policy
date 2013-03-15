@@ -1,4 +1,5 @@
 Policy
 ======
 
-a place to discuss policy
+
+A place to develop policy.
